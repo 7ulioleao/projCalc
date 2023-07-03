@@ -1,0 +1,15 @@
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.csproj.AssemblyReference.cache
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.AssemblyInfoInputs.cache
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.AssemblyInfo.cs
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.csproj.CoreCompileInputs.cache
+C:\calculadoraVsCode\bin\Debug\net6.0\calculadoraVsCode.exe
+C:\calculadoraVsCode\bin\Debug\net6.0\calculadoraVsCode.deps.json
+C:\calculadoraVsCode\bin\Debug\net6.0\calculadoraVsCode.runtimeconfig.json
+C:\calculadoraVsCode\bin\Debug\net6.0\calculadoraVsCode.dll
+C:\calculadoraVsCode\bin\Debug\net6.0\calculadoraVsCode.pdb
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.dll
+C:\calculadoraVsCode\obj\Debug\net6.0\refint\calculadoraVsCode.dll
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.pdb
+C:\calculadoraVsCode\obj\Debug\net6.0\calculadoraVsCode.genruntimeconfig.cache
+C:\calculadoraVsCode\obj\Debug\net6.0\ref\calculadoraVsCode.dll
